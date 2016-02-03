@@ -1,0 +1,30 @@
+
+ - It is a simple chat application.
+ - You have to login into application.
+ - you can register if you dont have account.
+ - The registered users will be stored into the database.
+ - After registeration or login the user will be moved to the list of peoples registerd.
+ - They can search whom they want to chat with.
+ - On clicking the person they want to chat with they are directed to the messege edit page.
+ - old messages can be shown their.
+ - On clicking on send the messeage will be stored in the database.
+ 
+ ---------------------------- Stories ----------------------------------------
+
+ - As a user I must be able to register my name.
+ - As a user I must be able to login into my account.
+ - As a user I must be able to see my old msgs.
+ - As a user I must be able to see all the users.
+ - As a user I must be able to search for any user I want to send msg.
+ - As a user I must be able to see a text box on clicking any of the user I want to send msg.
+ - As a user I must be able to send a msg to the user I want.
+ - As a user i must be able to do all the above in browser too if I dont have the app.
+ 
+ --------------------------- Technologies --------------------------------------
+
+ - HTML
+ - Javascript
+ - CSS
+ - Python
+ - Ajax
+ - Postgres

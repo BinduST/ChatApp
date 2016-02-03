@@ -1,0 +1,19 @@
+						            Chatting app
+
+
+
+Needs:-
+	Minimum a sender and a receiver.
+
+
+This chatting app is for 2 persons for now.
+
+Steps:-
+
+	1. The person who wants to chat has to login first.
+
+
+-------------------------------Strories---------------------------------
+
+1.As a player I want to login.
+2.As a player I want to 
